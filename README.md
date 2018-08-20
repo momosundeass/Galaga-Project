@@ -1,2 +1,2 @@
 # Galaga-Project
-Project for screening test for True Axion Interactive
+Screening test project for True Axion Interactive
